@@ -12,3 +12,5 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mjtsgamer&show_icons=true&locale=en" alt="mjtsgamer" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mjtsgamer&" alt="mjtsgamer" /></p>
+
+P.S. most of my repositories are on private cause they are private projects..
