@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm MJTSgamer (aka Kronk)</h1>
 <h3 align="center">A passionate backend developer from the Netherlands</h3>
 
-- 🔭 I’m currently working on **a Discord bot**
+- 🔭 I’m currently working on **uhhhhhhhhhh, too much...**
 
 - 🌱 I’m currently learning **C#**
 
