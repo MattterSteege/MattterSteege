@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm MJTSgamer (aka Kronk)</h1>
 <h3 align="center">A passionate backend developer from the Netherlands</h3>
 
-- 🔭 I’m currently working on **uhhhhhhhhhh, too much...**
+- 🔭 I’m currently working on **a (web)app for my school**
 
-- 🌱 I’m currently learning **C#**
+- 🌱 I’m currently learning **HTML & CSS**
 
 
 <h3 align="left">Languages and Tools:</h3>
