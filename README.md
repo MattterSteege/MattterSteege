@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **a (web)app for my school**
 
-- 🌱 I’m currently learning **HTML & CSS**
+- 🌱 I’m currently learning **HWeb development**
 
 
 <h3 align="left">Languages and Tools:</h3>
