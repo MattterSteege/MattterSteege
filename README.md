@@ -1,8 +1,8 @@
 <h1 align="center">Hi 👋, I'm Matt ter Steege (AKA Kronk)</h1>
 
-- 🔭 I’m currently working on [A modal system](https://github.com/MattterSteege/ZermosModal)
+- 🔭 I’m currently working on [An datatable system](https://github.com/MattterSteege/DynamicGrid)
 
-- 🌱 I’m currently learning **Web development**
+- 🌱 I’m currently learning **high levels of javascript development**
 
 - 👨‍💻 All of my personal projects are available at [https://github.com/matttersteege](https://github.com/matttersteege)
 
